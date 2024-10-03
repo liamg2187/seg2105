@@ -4,3 +4,6 @@
 [submodule "Project/seg2105f24-project-group_project_14"]
 	path = Project/seg2105f24-project-group_project_14
 	url = https://github.com/SEG2105BC-uOttawa/seg2105f24-project-group_project_14
+[submodule "Labs/seg2105f24-lab4-group_project_14"]
+	path = Labs/seg2105f24-lab4-group_project_14
+	url = https://github.com/SEG2105BC-uOttawa/seg2105f24-lab4-group_project_14
