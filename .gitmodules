@@ -10,3 +10,9 @@
 [submodule "Labs/seg2105f24-lab5-liamg2187"]
 	path = Labs/seg2105f24-lab5-liamg2187
 	url = https://github.com/SEG2105BC-uOttawa/seg2105f24-lab5-liamg2187
+[submodule "Labs/seg2105f24-lab6-liamg2187"]
+	path = Labs/seg2105f24-lab6-liamg2187
+	url = https://github.com/SEG2105BC-uOttawa/seg2105f24-lab6-liamg2187
+[submodule "Assignments/seg2105f24-assigment2-liamg2187"]
+	path = Assignments/seg2105f24-assigment2-liamg2187
+	url = https://github.com/SEG2105BC-uOttawa/seg2105f24-assigment2-liamg2187
